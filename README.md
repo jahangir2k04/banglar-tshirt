@@ -1,4 +1,4 @@
-# Banglar T-Shirt (<sub><sup>React project<sup/><sub/>)
+# Banglar T-Shirt <sub><sup>( React project )<sup/><sub/>
 * **Live link:**
 # Used packages/technology
 * HTML
